@@ -1,0 +1,113 @@
+{
+  "id": "Số thứ tự",
+  "patient": "Bệnh nhân",
+  "add": "Thêm",
+  "select": "Chọn",
+  "update": "Cập nhật",
+  "detail": "Chi tiết",
+  "delete": "Xóa",
+  "cancel": "Huỷ",
+  "back": "Quay lại",
+  "success": "Thành công",
+  "failed": "Thất bại",
+  "update-infomation": "Cập nhật thông tin",
+  "description": "Mô tả chi tiết",
+  "data-not-found": "Không tìm thấy dữ liệu",
+  "please-add-data": "Vui lòng thêm dữ liệu",
+  "doctor-appointment-schedule": "Lịch khám của bác sĩ",
+  "patient-appointment-schedule": "Lịch khám của bệnh nhân",
+  "img": "Ảnh",
+
+  "new": "mới",
+  "logout": "Đăng xuất",
+  "of-total-label-table": "trong số",
+  "please-enter-full-information": "Vui lòng nhập đầy đủ",
+  "province-city": "Tỉnh/Thành phố",
+  "district-town": "Quận/Huyện",
+  "ward": "Phường/Xã",
+  "popup": {
+    "delete": "Xóa",
+    "cancel": "Huỷ"
+  },
+  "delete-title": "Xóa",
+  "delete-confirm": "Bạn có chắc muốn xóa?",
+  "login": {
+    "log-in": "Đăng nhập",
+    "email": "Email",
+    "your-email": "Email của bạn",
+    "password": "Mật khẩu",
+    "remember-me": "Nhớ mật khẩu",
+    "forgot-password?": "Quên mật khẩu?",
+    "don't-have-an-account-yet?": "Bạn chưa có tài khoản?",
+    "sign-up": "Đăng ký",
+    "welcome-to-tma-innovation": "Chào mừng đến với TMA Innovation"
+  },
+  "user": {
+    "list": "Danh sách người dùng",
+    "user": "Người dùng",
+    "fullname": "Họ và tên",
+    "password": "Mật khẩu",
+    "email": "Email",
+    "phone": "Số điện thoại",
+    "address": "Địa chỉ",
+    "gender": "Giới tính",
+    "male": "Nam",
+    "female": "Nữ",
+    "role": "Vai trò",
+    "status": "Trạng thái",
+    "block": "Chặn",
+    "active": "Hoạt động",
+    "add-user": "Thêm người dùng mới"
+  },
+  "doctor": {
+    "list": "Danh sách bác sĩ",
+    "doctor": "Bác sĩ",
+    "name": "Tên bác sĩ",
+    "roomID": "Tên phòng",
+    "position": "Chức danh",
+    "add-doctor": "Thêm bác sĩ mới"
+  },
+  "specialty": {
+    "list": "Danh sách chuyên khoa",
+    "specialty": "Chuyên khoa",
+    "name": "Tên chuyên khoa",
+    "add-specialty": "Thêm chuyên khoa mới"
+  },
+  "hospital": {
+    "list": "Danh sách bệnh viện",
+    "hospital": "Bệnh viện",
+    "name": "Tên bệnh viện",
+    "address": "Địa chỉ bệnh viện",
+    "non-hospital-specialties": "Chuyên khoa không thuộc bệnh viện",
+    "hospital-specialties": "Chuyên khoa thuộc bệnh viện",
+    "add-hospital": "Thêm bệnh viện mới",
+    "host": "Quản lí"
+  },
+  "schedule": {
+    "list": "Danh sách lịch khám",
+    "date": "Ngày khám",
+    "time": "Giờ khám",
+    "number": "Số lượng",
+    "cost": "Giá",
+    "add-schedule": "Thêm lịch khám mới"
+  },
+  "booking": {
+    "booking": "Đặt lịch",
+    "name-patient": "Tên bệnh nhân",
+    "description-img": "Ảnh mô tả",
+    "payment": "Thanh toán",
+    "unpaid": "Chưa thanh toán",
+    "paid": "Đã thanh toán"
+  },
+  "notFound": {
+    "page-not-found": "Không tìm thấy trang",
+    "not-exist": "Xin lỗi trang bạn muốn tìm không tồn tại",
+    "back-home-page": "Về trang chủ",
+    "return": "Quay trở lại"
+  },
+  "notification": {
+    "notification": "Thông báo",
+    "notification-read": "Bạn đã đọc hết thông báo",
+    "click-tab-read": "Bạn có thể xem lại thông báo cũ trong mục đã đọc"
+  }
+}

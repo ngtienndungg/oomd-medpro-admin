@@ -1,0 +1,40 @@
+.card-data-grid-layout {
+  padding: 24px;
+  height: 100%;
+  width: 100%;
+  border-radius: 8px;
+  .scroll-table {
+    height: 94%;
+    overflow-x: auto;
+  }
+  .MuiDataGrid-root {
+    min-width: 800px;
+  }
+}
+
+.custom-header {
+  color: var(--text-text-secondary, #6d7474);
+  text-overflow: ellipsis;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.card-data-header {
+  display: flex;
+  // flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  align-items: flex-start;
+  gap: 16px;
+  align-self: stretch;
+}
+
+.MuiDataGrid-overlayWrapperInner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

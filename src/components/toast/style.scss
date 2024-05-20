@@ -1,0 +1,16 @@
+.toast-alert {
+  .MuiAlert-message {
+    .alert-message {
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+
+  .toast-icon {
+    width: 48px;
+    height: 48px;
+  }
+}

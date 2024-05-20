@@ -1,0 +1,16 @@
+.notFound-container {
+  background-color: white;
+  display: grid;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.notFound-wrapper {
+  .image {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+}

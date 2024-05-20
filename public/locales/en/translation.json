@@ -1,0 +1,113 @@
+{
+  "id": "ID",
+  "patient": "Patient",
+  "add": "Add",
+  "select": "Select",
+  "update": "Update",
+  "detail": "Detail",
+  "delete": "Delete",
+  "cancel": "Cancel",
+  "back": "Back",
+  "success": "Success",
+  "failed": "Failed",
+  "update-infomation": "Update Infomation",
+  "description": "Description",
+  "data-not-found": "Data not found",
+  "please-add-data": "Please add more data",
+  "doctor-appointment-schedule": "Doctor's appointment schedule",
+  "patient-appointment-schedule": "Patient's appointment schedule",
+  "img": "Image",
+
+  "new": "new",
+  "logout": "Log out",
+  "of-total-label-table": "of",
+  "please-enter-full-information": "Please enter full information",
+  "province-city": "Province/City",
+  "district-town": "District/Town",
+  "ward": "Sub-district/Village",
+  "popup": {
+    "delete": "Delete",
+    "cancel": "Cancel"
+  },
+  "delete-title": "Delete",
+  "delete-confirm": "Are you sure delete?",
+  "login": {
+    "log-in": "Log In",
+    "email": "Email",
+    "your-email": "Your Email",
+    "password": "Password",
+    "remember-me": "Remember me",
+    "forgot-password?": "Forgot Password?",
+    "don't-have-an-account-yet?": "Don't have an account yet?",
+    "sign-up": "Sign Up",
+    "welcome-to-tma-innovation": "Welcome to TMA Innovation"
+  },
+  "user": {
+    "list": "List User",
+    "user": "User",
+    "fullname": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "phone": "Phone",
+    "address": "Address",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "role": "Role",
+    "status": "Status",
+    "block": "Blocked",
+    "active": "Active",
+    "add-user": "Add new user"
+  },
+  "doctor": {
+    "list": "List Doctor",
+    "doctor": "Doctor",
+    "name": "Name Doctor",
+    "roomID": "Name Room",
+    "position": "Position",
+    "add-doctor": "Add new doctor"
+  },
+  "specialty": {
+    "list": "List Specialty",
+    "specialty": "Specialty",
+    "name": "Name Specialty",
+    "add-specialty": "Add new specialty"
+  },
+  "hospital": {
+    "list": "List Hospital",
+    "hospital": "Hospital",
+    "name": "Name Hospital",
+    "address": "Address Hospital",
+    "add-hospital": "Add new hospital",
+    "non-hospital-specialties": "Non-hospital specialties",
+    "hospital-specialties": "Hospital specialties",
+    "host": "Host"
+  },
+  "schedule": {
+    "list": "List Schedule",
+    "date": "Date",
+    "time": "Time",
+    "number": "Number",
+    "cost": "Cost",
+    "add-schedule": "Add new schedule"
+  },
+  "booking": {
+    "booking": "Booking",
+    "name-patient": "Name Patient",
+    "description-img": "Description Images",
+    "payment": "Payment",
+    "unpaid": "Unpaid",
+    "paid": "Paid"
+  },
+  "notFound": {
+    "page-not-found": "Page not found",
+    "not-exist": "Sorry, the page you are looking for does not exist",
+    "back-home-page": "Back to home page",
+    "return": "Return"
+  },
+  "notification": {
+    "notification": "Notification",
+    "notification-read": "You've read all notifications",
+    "click-tab-read": "You can review old notifications in the read section."
+  }
+}

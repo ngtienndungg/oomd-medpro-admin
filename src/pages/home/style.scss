@@ -1,0 +1,31 @@
+.login-container {
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+  background: linear-gradient(to right, var(--primary), rgb(135 206 250 / 0));
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 88px;
+  padding-left: 0px;
+}
+.login-left {
+  display: flex;
+  justify-content: center;
+  flex: 5;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 56px;
+  padding: 40px;
+  border-radius: 32px;
+  background-color: rgba(35, 47, 67, 1);
+  --tw-shadow: 0 4px 8px 0px rgba(0, 0, 0, 0.15);
+  --tw-shadow-colored: 0 4px 8px 0px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+    var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  margin-left: 88px;
+  width: 400px;
+}

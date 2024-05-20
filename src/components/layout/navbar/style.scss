@@ -1,0 +1,116 @@
+.header-sticky {
+  position: sticky;
+  top: 0px;
+  z-index: 10;
+  padding: 0px var(--padding-x);
+  height: var(--height-header);
+  background-color: var(--white);
+  box-shadow: 0px 2px 4px 0px rgba(30, 32, 32, 0.08);
+
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    height: 100%;
+    padding: 0;
+
+    .header-component-left {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: start;
+
+      .logo {
+        width: 62px;
+        height: 32px;
+        object-fit: fill;
+        margin-right: 16px;
+      }
+
+      .MuiTabs-root {
+        height: 100% !important;
+      }
+
+      .MuiTabs-scroller {
+        display: flex;
+      }
+
+      .MuiButtonBase-root {
+        text-transform: none;
+        color: inherit;
+      }
+
+      .Mui-selected {
+        color: var(--primary) !important;
+      }
+    }
+
+    .header-component-right {
+      .avatar {
+        width: 32px;
+        height: 32px;
+        border-radius: 20px;
+        object-fit: fill;
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+.menu-language-image {
+  height: 21px;
+  width: 21px;
+  border-radius: 20px;
+  object-fit: fill;
+  margin-right: 10px;
+}
+
+.btn-language {
+  height: 32px;
+  min-width: 47px;
+  padding: 0px 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e6ebef;
+  border-radius: 4px;
+  cursor: pointer;
+
+  .flag {
+    height: 21px;
+    width: 21px;
+    object-fit: fill;
+    border-radius: 20px;
+    margin-right: 6px;
+  }
+}
+
+div[data-popper-placement="bottom"],
+div .MuiPopover-paper {
+  border-radius: 8px !important;
+  box-shadow: 0px 1px 8px 0px rgba(30, 32, 32, 0.12);
+
+  // div {
+  //   box-shadow: none !important;
+  // }
+}
+
+#popup-profile {
+  z-index: 10000;
+  top: 6px !important;
+  left: -32px !important;
+}
+
+#popup-noti {
+  z-index: 10000;
+  top: 10px !important;
+  left: -80px !important;
+}
+
+.avatar {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+}
